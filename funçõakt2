@@ -1,0 +1,8 @@
+fun minhafuncao(){
+  println("minha função escreve na tela")
+}
+
+fun main(args: Array<String>) {
+  minhafuncao()
+  minhafuncao()
+}
